@@ -48,3 +48,30 @@ Run the script to test **ChatDKU Advising**'s responses against reference answer
 ## Purpose  
 This project **is part of my signature work and graduation project** at DKU. It aims to assess the reliability of **ChatDKU Advising** in providing accurate academic guidance, ensuring alignment with **DKU’s official advising policies**.  
 
+### Evaluation Summary of ChatDKU-Advising
+
+<img width="271" alt="image" src="https://github.com/user-attachments/assets/e09112ab-5b4b-47ad-9fd8-2102b579cab4" />
+Average Scores Report
+<img width="274" alt="image" src="https://github.com/user-attachments/assets/8b841019-5c5a-4af7-a7d4-fa0b8a5c1eb8" />
+Corrected Radar Chart
+<img width="410" alt="image" src="https://github.com/user-attachments/assets/4d98dd52-d782-488e-84fc-2da729e8e668" />
+Score Distributions Histogram
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/1fd5b2b1-b190-4b3e-ac01-de54ea5366c3" />
+Bar Chart of Average Scores
+
+ChatDKU was evaluated using 104 questions categorized into 13 domains from Duke Kunshan University’s official FAQ documents. The system’s responses were compared against reference answers using three metrics: **Levenshtein** (textual similarity), **BLEU** (phrase-level precision), and **ROUGE** (content recall). Key findings include:
+- **Overall Performance**: ChatDKU achieved strong results in Levenshtein (avg. 0.7877) and ROUGE (avg. 0.8111), indicating high structural and content-level alignment with official answers. However, BLEU scores (avg. 0.6018) highlighted inconsistencies in exact phrase matching.
+- **Top Categories**: Courses like *Course Repeat* (Levenshtein: 0.9377) and *Credits Transfer* (ROUGE: 0.9600) excelled due to standardized responses.
+- **Challenges**: Categories like *Leave of Absence* (Levenshtein: 0.6143) and *Graduation* (BLEU: 0.4739) showed lower scores, suggesting structural or content gaps.
+
+### Strengths & Limitations
+- **Strengths**: ChatDKU demonstrates robust retrieval capabilities and context-aware response generation, particularly for structured queries.
+- **Limitations**: Phrase-level precision and handling open-ended questions remain areas for improvement. Traditional metrics like BLEU may understate the value of semantically accurate but paraphrased answers.
+
+### Future Directions
+Enhancing prompt engineering, expanding dataset coverage, and integrating advanced evaluation methods"""
+
+
+
+
+
