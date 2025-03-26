@@ -49,9 +49,9 @@ Run the script to test **ChatDKU Advising**'s responses against reference answer
 This project **is part of my signature work and graduation project** at DKU. It aims to assess the reliability of **ChatDKU Advising** in providing accurate academic guidance, ensuring alignment with **DKU’s official advising policies**.  
 
 ### Evaluation Summary of ChatDKU-Advising
-Average Scores Report
-<img width="271" alt="image" src="https://github.com/user-attachments/assets/e09112ab-5b4b-47ad-9fd8-2102b579cab4" />
-Corrected Radar Chart
+Average Scores Report\n
+<img width="271" alt="image" src="https://github.com/user-attachments/assets/e09112ab-5b4b-47ad-9fd8-2102b579cab4" />\n
+Corrected Radar Chart\n
 <img width="274" alt="image" src="https://github.com/user-attachments/assets/8b841019-5c5a-4af7-a7d4-fa0b8a5c1eb8" />
 Score Distributions Histogram
 <img width="410" alt="image" src="https://github.com/user-attachments/assets/4d98dd52-d782-488e-84fc-2da729e8e668" />
