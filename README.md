@@ -48,9 +48,8 @@ Run the script to test **ChatDKU Advising**'s responses against reference answer
 ## Purpose  
 This project **is part of my signature work and graduation project** at DKU. It aims to assess the reliability of **ChatDKU Advising** in providing accurate academic guidance, ensuring alignment with **DKU’s official advising policies**.  
 
-## Evaluation Summary of ChatDKU-Advising
 
-### 📊 Overview  
+## 📊 Evaluation Summary of ChatDKU-Advising
 
 This section provides visualizations of the evaluation results, including **average scores, radar charts, score distributions, and bar charts**.  
 
